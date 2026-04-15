@@ -1,0 +1,51 @@
+{
+  "name": "무니",
+  "member_url": "https://www.gpters.org/member/jyZ1FwGzg3",
+  "badges": ["AI 찐친", "마스터 파트너", "경험 찐친"],
+  "post_count": 11,
+  "reply_count": 10,
+  "total_likes": 27,
+  "total_comments": 19,
+  "activity_period": "9개월",
+  "categories": {
+    "에이전트/자동화": 4,
+    "전자책/글쓰기": 3,
+    "구글 생태계": 2,
+    "AI 학습": 1,
+    "기타": 1
+  },
+  "monthly_activity": {
+    "2025-06": 1,
+    "2025-07": 2,
+    "2025-08": 1,
+    "2025-09": 2,
+    "2025-10": 1,
+    "2025-11": 1,
+    "2025-12": 1,
+    "2026-01": 1,
+    "2026-02": 1
+  },
+  "posts": [
+    {"title": "직장인 AI 대학원 입학 바이블 전자책 출간", "likes": 7, "comments": 5, "category": "전자책", "date": "2025-09"},
+    {"title": "구글 캘린더+스프레드시트 자동화 시스템 구축", "likes": 5, "comments": 3, "category": "구글 생태계", "date": "2025-10"},
+    {"title": "손동작 인식 웹게임 제작기 (MediaPipe)", "likes": 4, "comments": 3, "category": "에이전트/자동화", "date": "2025-11"},
+    {"title": "뇌과학 스터디 후기 — 습관 설계법", "likes": 3, "comments": 2, "category": "AI 학습", "date": "2025-08"},
+    {"title": "구글 자격증 취득 후기", "likes": 2, "comments": 2, "category": "구글 생태계", "date": "2025-07"},
+    {"title": "AI 이력서 면접 스터디 참여 후기", "likes": 2, "comments": 1, "category": "커리어", "date": "2025-12"},
+    {"title": "n8n 자동화 워크플로우 구축기", "likes": 1, "comments": 1, "category": "에이전트/자동화", "date": "2026-01"},
+    {"title": "ChatGPT 프롬프트 엔지니어링 실전 팁", "likes": 1, "comments": 1, "category": "AI 학습", "date": "2025-06"},
+    {"title": "Make(Integromat) 자동화 사례 공유", "likes": 1, "comments": 1, "category": "에이전트/자동화", "date": "2025-07"},
+    {"title": "커리어 전환 스터디 3기 참여 후기", "likes": 1, "comments": 0, "category": "커리어", "date": "2026-02"},
+    {"title": "GPTers 가입인사 — 직장인 AI 공부 시작", "likes": 0, "comments": 0, "category": "기타", "date": "2025-06"}
+  ],
+  "tools": ["ChatGPT", "Claude", "n8n", "Make", "Google Apps Script", "MediaPipe", "Notion AI", "Gamma"],
+  "stats": {
+    "consistency": 92,
+    "content_creation": 90,
+    "practical_implementation": 88,
+    "ai_tool_diversity": 85,
+    "community_contribution": 80,
+    "study_participation": 78
+  },
+  "summary": "배운 것을 즉시 만들고 나누는 실천형 AI 크리에이터"
+}

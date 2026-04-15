@@ -1,0 +1,95 @@
+{
+  "name": "브라이언",
+  "member_url": "https://www.gpters.org/member/9BZXf3Gz1o",
+  "badges": ["마스터 파트너"],
+  "post_count": 19,
+  "reply_count": 21,
+  "total_likes": 16,
+  "total_comments": 12,
+  "activity_period": "3년",
+  "categories": {
+    "에이전트 / 노코드 자동화": 11,
+    "노트 / 글쓰기": 5,
+    "지피터스 9기": 1,
+    "가입인사": 2
+  },
+  "monthly_activity": {
+    "2026-03": 3,
+    "2026-02": 1,
+    "2026-01": 1,
+    "2025-09": 1,
+    "2025-06": 1,
+    "2025-05": 2,
+    "2025-04": 2,
+    "2024-04": 2,
+    "2023-01": 6
+  },
+  "posts": [
+    {
+      "title": "[Manus] 회사 PPT 템플릿은 있는데 초안이 안 나올 때 — Manus로 해결한 후기",
+      "likes": 2,
+      "comments": 1,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2026-03"
+    },
+    {
+      "title": "[클로드 3.5 소네트] 텍스트만 넣으면 PPT 템플릿까지 만들어주는 에이전트 만들기",
+      "likes": 3,
+      "comments": 2,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2026-03"
+    },
+    {
+      "title": "[지피터스 9기] 브라이언의 옵시디언 강의 후기",
+      "likes": 1,
+      "comments": 0,
+      "category": "지피터스 9기",
+      "date": "2026-03"
+    },
+    {
+      "title": "Manus Agent Skills로 나에게 꼭 맞는 맞춤형 AI 워크플로우 완성",
+      "likes": 1,
+      "comments": 1,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2026-02"
+    },
+    {
+      "title": "매일 나의 업무와 일상 데일리 기록들을 토대로 일간 회고를 자동화시키기",
+      "likes": 2,
+      "comments": 1,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2026-01"
+    },
+    {
+      "title": "AI와 뇌과학으로 만든 나만의 감정 파트너, '마인드로그' 개발기 🧠✨",
+      "likes": 1,
+      "comments": 1,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2025-09"
+    },
+    {
+      "title": "오전 7시에는 나의 할 일 추천을, 오후 7시에는 일일 리포트를 자동으로! '생산성 업 봇' 만들기",
+      "likes": 2,
+      "comments": 1,
+      "category": "에이전트 / 노코드 자동화",
+      "date": "2025-06"
+    },
+    {
+      "title": "나에 대한 노트를 2달 동안 한 결과, 이것이 AI와 진정한 메타인지와 회고일까?",
+      "likes": 1,
+      "comments": 1,
+      "category": "노트 / 글쓰기",
+      "date": "2024-04"
+    }
+  ],
+  "tools": ["Manus", "Claude", "ChatGPT", "Obsidian", "n8n", "Google Calendar", "MindLog", "Gobi Desktop", "AI4PKM"],
+  "stats": {
+    "consistency": 85,
+    "content_creation": 90,
+    "practical_implementation": 95,
+    "ai_tool_diversity": 80,
+    "community_contribution": 85,
+    "study_participation": 90
+  },
+  "summary": "브라이언은 지피터스의 마스터 파트너로, 개인지식관리와 Manus, Claude 등을 활용한 AI 자동화 워크플로우 개발에 주력하고 있습니다."
+}
