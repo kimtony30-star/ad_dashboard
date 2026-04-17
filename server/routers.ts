@@ -588,7 +588,7 @@ export const appRouter = router({
         return { anonMode: input.enabled };
       }),
  // AI 자연어 분석
-    askAI: publicProcedure
+  askAI: publicProcedure
       .input(z.object({
         question: z.string().min(1).max(500),
         history: z.array(z.object({
@@ -597,11 +597,10 @@ export const appRouter = router({
         })).default([]),
       }))
       .mutation(async ({ input }) => {
-        const ctx = await buildAiContext();
-        const systemPrompt = buildSystemPrompt(ctx);
+        const systemPrompt = await buildAiContext(); // 이제 string 직접 반환
         const answer = await callOpenAI(systemPrompt, input.history, input.question);
         return { answer };
-      }),
+      }), 
   }),
 });
 
